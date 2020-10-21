@@ -4,7 +4,7 @@
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 
-I am a rising sophomore at Penn State University majoring in Computer Science. I'm a Data Science enthusiast and am open to summer 2021 internships!!
+I am a sophomore at Penn State University majoring in Computer Science. I'm a Data Science enthusiast and am open to summer 2021 internships!!
 
 - 🔭 I’m currently working on K Nearest Neighbors 
 - 🌱 I’m currently learning Vector Support Machines 
