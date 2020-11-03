@@ -7,7 +7,7 @@
 I am a sophomore at Penn State University majoring in Computer Science. I'm a Data Science enthusiast and am open to summer 2021 internships!!
 
 - 🔭 I’m currently working on K Nearest Neighbors 
-- 🌱 I’m currently learning Vector Support Machines 
+- 🌱 I’m currently learning Support Vector Machines 
 - 👯 I’m looking to collaborate on fun Data Science projects 
 - 📫 How to reach me: devp_10@outlook.com 
 - ⚡ Fun fact: I wish my life was fun🤪!! 
