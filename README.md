@@ -4,7 +4,7 @@
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 
-I am a rising junior at Penn State University majoring in Computer Science and minoring in Statistics. I'm a Data Science enthusiast and down for fun collabs!!
+I am a rising junior at Penn State University majoring in Computer Science and minoring in Statistics. I'm a Data Science enthusiast and am down for fun collabs!!
 
 - 🔭 I’m currently working on a Research Project in NLP
 - 🌱 I’m currently learning Unsupervised ML Algorithms
